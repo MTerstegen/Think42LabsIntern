@@ -1,4 +1,4 @@
-# Project Task1
+# Project Tasks
 Task: 1) Predicting student marks. 2) Predicting movie success
 
 Predicting movie success:
