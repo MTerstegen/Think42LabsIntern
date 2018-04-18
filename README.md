@@ -1,4 +1,4 @@
-# Think42LabsIntern
+# Project Task1
 Task: 1) Predicting student marks. 2) Predicting movie success
 
 Predicting movie success:
